@@ -2,6 +2,7 @@
 
 - 🔭 I'm currently studying for a Bsc in computer engineering
 - 🌱 I like pure maths, physics and computer science.
+- ♥️ My favourite programming languages are C and Haskell.
 <!--
 **philipasa/philipasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
